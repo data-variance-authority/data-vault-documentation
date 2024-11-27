@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 110">
+  <defs>
+    <style>
+      .cls-1 {
+      font-family: SFPro-Regular, 'SF Pro', sans-serif;
+      font-size: 60px;
+      font-variation-settings: 'wdth' 100, 'opsz' 28, 'wght' 400;
+      letter-spacing: 0.05em;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect x="0.5" y="0.5" width="182" height="108" rx="4" ry="4" fill="none" stroke="#fff"
+      stroke-miterlimit="10" stroke-width="2" />
+    <text class="cls-1" transform="translate(40 75)" fill="#fff">
+      dva.
+    </text>
+  </g>
+</svg>
