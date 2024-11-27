@@ -1,0 +1,19 @@
+site_name: Data Vault Documentation
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  logo: 'images/dva.svg'
+  name: material
+  palette:
+    primary: black
+    accent: orange
+  font:
+    text: 'Arial'
+    code: 'monospace'
+  search: true
+  search_index_only: ['search', 'index']
+  features:
+    - navigation.top
+    - navigation.tabs
+  extra:
